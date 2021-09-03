@@ -1,2 +1,2 @@
 # DesktopApp_AngelHernandez
-![screenshot](Capture.png)
+![screenshot](Capture.PNG)
